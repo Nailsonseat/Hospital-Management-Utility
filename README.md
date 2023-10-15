@@ -41,3 +41,5 @@
         </p>
     </ul>
 </div>
+
+Interested in contributing to this project? Read [Contributing.md](https://github.com/Nailsonseat/Hospital-Management-Utility/blob/b57106dcbf0f0170cecf1c0cba9640e65f19edc1/CONTRIBUTING.md) for more.
