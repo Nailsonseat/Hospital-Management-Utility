@@ -7,7 +7,7 @@
 #include <fstream>
 #include <ctype.h>
 #include <sstream>
-#include "./classes/date_schema/date.h"
+#include "./schema/date.h"
 #include <random>
 
 using namespace std;

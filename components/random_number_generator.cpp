@@ -1,4 +1,4 @@
-#include "../random_number_generator/random_number_generator.h"
+#include "../schema/random_number_generator.h"
 #include <random>
 
 int getRandomNumber(int lowerBound, int upperBound)
