@@ -50,9 +50,9 @@ Please follow the coding style and standards used in the project.
   - Testing: Test thoroughly before creating a PR (Pull Request).
     
   - Header and Source Files (Important): When creating classes or functions, use header files (.h or .hpp) for declarations and source files (.cpp) for implementations.
-    The classes directory is self-explanatory it will contain only header (.h) files, basically classes with no methods.
+    The schema directory is self-explanatory it will contain only header (.h) files.
     The components directory will store classes with methods.
-    Examples of classes and components are given as date_schema and random_number_generator respectively.
+    Examples of schema and components are given as date_schema and random_number_generator respectively.
 
 # License
 
