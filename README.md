@@ -42,4 +42,4 @@
     </ul>
 </div>
 
-Interested in contributing to this project? Read [Contributing.md](https://github.com/Nailsonseat/Hospital-Management-Utility/blob/c6f30fe8f3bff923000aef7a7db26e066c223cf7/CONTRIBUTING.md) for more.
+## Interested in contributing to this project? Read [Contributing.md](https://github.com/Nailsonseat/Hospital-Management-Utility/blob/c6f30fe8f3bff923000aef7a7db26e066c223cf7/CONTRIBUTING.md) for more.
